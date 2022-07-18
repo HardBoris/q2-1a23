@@ -2,6 +2,7 @@
   "name": "q2-1a23",
   "description": "An Aurelia client application.",
   "version": "0.1.0",
+  "main": "index.ejs",
   "repository": {
     "type": "???",
     "url": "???"
